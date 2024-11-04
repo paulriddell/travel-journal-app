@@ -1,8 +1,12 @@
-# React + Vite
+# Travel Journal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Requirements:
 
-Currently, two official plugins are available:
+- Data array in separate data.js file
+  - Title, location, Google maps link, startdate, enddate, description, image URL
+- Use .map() and props
+- Style & polished
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Sample
+
+![alt text](image.png)
