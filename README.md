@@ -1,7 +1,4 @@
 # Travel Journal
-# Travel Journal
-
-Requirements:
 Requirements:
 
 - Data array in separate data.js file
